@@ -12,7 +12,7 @@ class TestMathFunctions(unittest.TestCase):
 
     def testAdd_returns_correct_integer_when_two_numbers_provided(self):
         # assemble
-        a = 20
+        a = 22
         b = 15
         expected = 25
         # act
